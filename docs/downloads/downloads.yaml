@@ -23,12 +23,7 @@ dev:
     size: 28 MB
     timestamp: Wed Oct 22 07:11:47 2025
     url: https://downloads.lms-community.org/nightly/lyrionmusicserver_9.1.0~1761117107_arm.deb
-  debi386:
-    desc: ':material-debian: Debian / :material-ubuntu: Ubuntu - i386'
-    name: lyrionmusicserver_9.1.0~1761046241_i386.deb
-    size: 18 MB
-    timestamp: Tue Oct 21 11:30:41 2025
-    url: https://downloads.lms-community.org/nightly/lyrionmusicserver_9.1.0~1761046241_i386.deb
+  debi386: ~
   encore:
     desc: ':material-linux::material-music-box: Musical Fidelity'
     name: lyrionmusicserver-9.1.0-1761117107-MusicalFidelity.tgz
