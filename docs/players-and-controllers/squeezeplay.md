@@ -94,7 +94,7 @@ In case you encounter other issues, please head over to the [forums](https://for
 [^fn1]: [https://forums.lyrion.org/forum/user-forums/general-discussion/1732269-squeezeplay-setup-8-4-1r1474-exe-windows-not-finding-server?p=1732388#post1732388](https://forums.lyrion.org/forum/user-forums/general-discussion/1732269-squeezeplay-setup-8-4-1r1474-exe-windows-not-finding-server?p=1732388#post1732388)
 [^fn2]: [https://forums.lyrion.org/forum/user-forums/general-discussion/1732269-squeezeplay-setup-8-4-1r1474-exe-windows-not-finding-server?p=1745250#post1745250](https://forums.lyrion.org/forum/user-forums/general-discussion/1732269-squeezeplay-setup-8-4-1r1474-exe-windows-not-finding-server?p=1745250#post1745250)
 
-### Media Key Support
+### macOS Media Key Support
 
 In order to support keyboard media keys like play/pause, fast forward, and rewind, Squeezeplay needs privileges to receive media key events in the background. Go to System Settings → Privacy & Security → Accessibility and click the plus sign to add Squeezeplay to the list of applications. Then restart Squeezeplay.
 
